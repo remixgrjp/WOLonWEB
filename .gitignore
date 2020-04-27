@@ -1,0 +1,8 @@
+# ＵＴＦ８	除外設定 .gitignore
+# 直下のみ
+/log/*
+/tmp/*
+.DS_Store
+Thumbs.db
+# 空フォルダを生かす為、最後に
+!.gitkeep
